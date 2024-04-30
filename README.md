@@ -1,2 +1,2 @@
 # landing-page-top
-This is a project from the TOP website
+This project is a basic landing page prototype.
